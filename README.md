@@ -1,4 +1,4 @@
-# RemoteWebDriver using, the project example
+# trueautomation java remoteWD gradle using, the project example
 
 **Description:** You are viewing the README for using the RemoteWebDriver with TrueAutomation.
 This is the detailed instruction how to run tests, using different drivers within the project example.
